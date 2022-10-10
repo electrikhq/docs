@@ -37,3 +37,5 @@ php artisan serve
 {% endcode %}
 
 That's all! Electrik is now installed on your system. Goto [https://localhost:8000](https://localhost:8000/) to see the magic
+
+After installation, you should update your .env file to update the new config values that Electrik installs.
