@@ -19,12 +19,16 @@ However, for the documentation here is how Electrik is structured:
 
 ### Art Directory
 
-Art directory contains screenshots and graphics which are used for various documentations, and readme files. They are not required or used in the application anywhere.
+Art directory contains screenshots and graphics which are used for various documentations and readme files. They are not required or used in the application anywhere.
 
 ### Config Directory
 
 For Electrik to work properly, it needs to modify some values in default configuration files like auth.php, livewire.php, etc. You can take a look at the files to understand what has changed.
 
-Database/Migrations
+### Database/Migrations
 
 Similar to configuration, Electrik also needs to modify the table structure of existing packages to make it compatible with some features of Electrik. For example, we need to add `team_id` to Cashier's subscription table to make sure it works for the team rather than a user in the system.
+
+### Stubs Directory
+
+This directory contains stubs required for building the Electrik components
