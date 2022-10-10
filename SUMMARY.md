@@ -8,3 +8,8 @@
 
 * [Introduction](getting-started/introduction.md)
 * [Installation](getting-started/installation.md)
+* [Directory Structure](getting-started/directory-structure.md)
+
+## Digging Deeper
+
+* [Architecture](digging-deeper/architecture.md)
