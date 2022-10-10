@@ -7,6 +7,7 @@
 ## Getting Started
 
 * [Introduction](getting-started/introduction.md)
+* [How Does Electrik Works?](getting-started/how-does-electrik-works.md)
 * [Installation](getting-started/installation.md)
 * [Directory Structure](getting-started/directory-structure.md)
 
