@@ -14,3 +14,4 @@
 ## Digging Deeper
 
 * [Architecture](digging-deeper/architecture.md)
+* [Electrik CLI](digging-deeper/electrik-cli.md)
